@@ -1,0 +1,2 @@
+cycle_index,discharge_capacity,charge_capacity,discharge_energy,charge_energy,dc_internal_resistance,temperature_maximum,temperature_average,temperature_minimum,date_time_iso,energy_efficiency,charge_throughput,energy_throughput,charge_duration,time_temperature_integrated,paused
+0,1.5430456000000001,1.0545155,4.676918,3.631703899999999,0.08413675427436801,33.85187911987305,32.4324836730957,22.175308227539062,2018-04-13T01:27:28+00:00,1.287802675763296,1.054515480995178,3.631703853607177,100864.0,53666.28388264975,0
