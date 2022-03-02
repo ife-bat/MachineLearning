@@ -23,7 +23,7 @@ def select_dataset(df, column):
 
     return s
 
-'''___________________________ Model functions__________________________'''
+'''___________________________ functions for modeling __________________________'''
 
 # Function to get errors
 def get_errors(y_train, y_test, y_train_pred, y_test_pred):
@@ -33,3 +33,7 @@ def get_errors(y_train, y_test, y_train_pred, y_test_pred):
     mape_test = mean_absolute_percentage_error(y_test, y_test_pred)
     
     return mse_cycles_train, mse_cycles_test, mape_train, mape_test
+
+# Function for scaling?
+
+
