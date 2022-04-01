@@ -1,0 +1,10 @@
+Ah_balance (normalized)	Ah_balance (mAh)	Voltage - fit (V)	Voltage -  interpolate (V)	dQ/dV (1/V)	Temperature (°C)	Temperature - diff (°C)	Current (C)	R_DC 0ms (mOhm)	R_DC 50ms (mOhm)	R_DC 50 ms PEC (mOhm)
+0.0000	0.00	3.7190	9.4903	0.0000	NaN	NaN	0.186			
+0.0000	0.00	3.7200	9.4903	0.0000	NaN	NaN	0.186	0.362	0.538	
+0.3578	22897.16	3.7180	3.7181	-0.1421	NaN	NaN	-0.750	0.403	0.567	
+0.3579	22906.83	3.7170	3.7169	-0.1602	NaN	NaN	-0.750			
+0.3581	22917.66	3.7160	3.7166	-0.1783	NaN	NaN	-0.750			
+0.3583	22929.99	3.7150	3.7149	-0.1959	NaN	NaN	-0.750	0.391	0.553	
+0.3585	22942.91	3.7140	3.7149	-0.2081	NaN	NaN	-0.750			
+0.3587	22956.62	3.7130	3.7133	-0.2203	NaN	NaN	-0.750			
+0.3589	22971.11	3.7120	3.7122	-0.2325	NaN	NaN	-0.750			
