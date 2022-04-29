@@ -1,0 +1,3 @@
+Ah_balance (normalized)	Ah_balance (mAh) - avg	Ah_balance (mAh) - std dev	Current (C) - avg	Current (C) - std dev	Temp (°C) - avg	Temp (°C) - std dev	R_DC (t=0ms) (mOhm) - avg	R_DC (t=0ms) (mOhm) - std dev	R_DC (t=50ms) (mOhm) - avg	R_DC (t=50ms) (mOhm) - std dev	R_DC PEC (t=50ms) (mOhm) - avg	R_DC PEC (t=50ms) (mOhm) - std dev
+		-0.00		-0.000		-0.00		-0.000		-0.000		
+0.7666	49060.76		-0.050		24.55		0.633		1.077			
