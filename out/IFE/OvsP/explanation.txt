@@ -1,0 +1,6 @@
+filename: group_featuretype_predictiontype
+
+fact = features actual cycles
+fnorm = features normalized cycles
+pact = prediction actual cycles
+pnorm = prediction normalized cycles
