@@ -1,1 +1,1 @@
-# MachineLearning
+# In this thesis, ML models were made for two different datasets. The code for the MIT data models can be found in SeversonReproduced.ipynb and NewModelMIT.ipynb. For the IFE data, it can be found in IFE_ML.ipynb.
